@@ -63,14 +63,6 @@ A comprehensive conversion suite supporting 7 essential categories:
 
 ---
 
-## 📸 Screenshots
-
-| Standard Calculator | Unit Converter | History Management |
-| :---: | :---: | :---: |
-| *(Placeholder)* | *(Placeholder)* | *(Placeholder)* |
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the full text.
